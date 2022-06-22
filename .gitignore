@@ -3,6 +3,8 @@
 !*.h
 !*.cpp
 
+!/src
+
 !*.sln
 !*.vcxproj
 !*.vcxproj.filters
